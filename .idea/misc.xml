@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/a1_grad.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/a2_grad.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/app_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/app_content_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/complete_excerise_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/custom_progressbar.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/orange_round_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/setting_list_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/white_cursor.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/drawable/white_do_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_excerise_list.xml" value="0.25" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_favourite_activity.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_perform_excrise_activity.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_reminder.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_setting_activity.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_splash_actvity.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/activity_static_activity.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/ad_unified2.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/excriese_lis_view.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/exit_confirm_dialog.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/fragment_b_m_i_calculatore_.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/fragment_excerise_.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/fragment_histroy_.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/fragment_home_.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/next_excerise_dialog.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/rest_time_dialog.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/setting_view.xml" value="0.209375" />
+        <entry key="..\:/Users/sambit.pradhan/Desktop/My Projects/Pregnancy Yoga Workout/app/src/main/res/layout/workout_dificulty_dialog.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
