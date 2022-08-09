@@ -20,7 +20,6 @@ import static android.os.Build.VERSION_CODES.O;
 
 public class DailyAlarmReceiver extends BroadcastReceiver {
 
-
     private void createNotificationChannel(Context context) {
         if (Build.VERSION.SDK_INT >= O) {
             NotificationChannel notificationChannel = null;
